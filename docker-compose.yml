@@ -1,7 +1,7 @@
 version: '3.8'
 
 services:
-  postgres_nlw:
+  postgres_bd:
     container_name: postgres_cardapio
     image: postgres
     ports:
